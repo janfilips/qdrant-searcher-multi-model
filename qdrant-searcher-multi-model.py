@@ -39,15 +39,6 @@ SPARSE_EMBEDING_MODEL = "bm25"
 DENSE_EMBEDING_MODEL = "openai-embedding-3-small"
 LATE_INTERACTION_EMBEDING_MODEL = "colbertv2.0"
 
-
-# XXX TODO try with diferent data
-# XXX TODO consider all results from all but dense search...
-# XXX TODO AI to evaluate titles and decide when to stop iteraring...
-# XXX TODO try with OpenAI embedings also..
-# XXX TODO try with naver/efficient-splade-VI-BT-large-query
-# XXX TODO group skill, expertise, headline + work experience vectors
-
-
 logo = """
 ███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗         ███████╗███████╗ █████╗ ██████╗  ██████╗██╗  ██╗███████╗██████╗     ██╗   ██╗  ██████╗  ██████╗
 ████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║         ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝██║  ██║██╔════╝██╔══██╗    ██║   ██║  ╚════██╗██╔═████╗
